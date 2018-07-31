@@ -16,7 +16,7 @@ for user in data:
 def setUp(self):
     self.driver = webdriver.Chrome()
     self.driver.implicitly_wait(30)
-    self.base_url = "http://192.168.100.125:58080/vender/mainIndex.jsp"
+    self.base_url = "http://222.191.229.126:58088/vender/index.jsp"
     self.verificationErrors = []
     self.accept_next_alert = True
 
