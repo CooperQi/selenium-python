@@ -18,14 +18,15 @@ def creatsuitel():
 
 alltestnames = creatsuitel()
 
-now = time.strftime("%y-%m-%d-%H_%M_%S",time.localtime(time.time()))
+now = time.strftime("%y-%m-%d_%H_%M_%S",time.localtime(time.time()))
 
-filename='report/'+now +'result.html'
+#filename='report/'+now +'result.html'
+filename = 'report/'+now +'result.html'
 fp = file(filename,'wb')
 
 runner = HTMLTestRunner.HTMLTestRunner(
     stream=fp,
-    title=u'百度搜索测试报告',
+    title=u'祥云系统测试报告',
     description=u'用例测试情况：'
 )
 

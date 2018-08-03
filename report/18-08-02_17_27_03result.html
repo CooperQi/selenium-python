@@ -2,7 +2,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-    <title>百度搜索测试报告</title>
+    <title>祥云系统测试报告</title>
     <meta name="generator" content="HTMLTestRunner 0.8.2"/>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     
@@ -188,10 +188,10 @@ function showOutput(id, name) {
 --></script>
 
 <div class='heading'>
-<h1>百度搜索测试报告</h1>
-<p class='attribute'><strong>Start Time:</strong> 2018-07-20 15:32:22</p>
-<p class='attribute'><strong>Duration:</strong> 0:00:49.504000</p>
-<p class='attribute'><strong>Status:</strong> Pass 4</p>
+<h1>祥云系统测试报告</h1>
+<p class='attribute'><strong>Start Time:</strong> 2018-08-02 17:27:03</p>
+<p class='attribute'><strong>Duration:</strong> 0:00:17.996000</p>
+<p class='attribute'><strong>Status:</strong> Pass 1 Failure 1</p>
 
 <p class='description'>用例测试情况：</p>
 </div>
@@ -222,57 +222,61 @@ function showOutput(id, name) {
 </tr>
 
 <tr class='passClass'>
-    <td>start_baidu.Baidu</td>
-    <td>2</td>
-    <td>2</td>
-    <td>0</td>
-    <td>0</td>
-    <td><a href="javascript:showClassDetail('c1',2)">Detail</a></td>
-</tr>
-
-<tr id='pt1.1' class='hiddenRow'>
-    <td class='none'><div class='testcase'>test_baidu_search: 百度搜索</div></td>
-    <td colspan='5' align='center'>pass</td>
-</tr>
-
-<tr id='pt1.2' class='hiddenRow'>
-    <td class='none'><div class='testcase'>test_baidu_set: 百度设置</div></td>
-    <td colspan='5' align='center'>pass</td>
-</tr>
-
-<tr class='passClass'>
     <td>start_login.Login</td>
     <td>1</td>
     <td>1</td>
     <td>0</td>
     <td>0</td>
-    <td><a href="javascript:showClassDetail('c2',1)">Detail</a></td>
+    <td><a href="javascript:showClassDetail('c1',1)">Detail</a></td>
 </tr>
 
-<tr id='pt2.1' class='hiddenRow'>
+<tr id='pt1.1' class='hiddenRow'>
     <td class='none'><div class='testcase'>test_login</div></td>
     <td colspan='5' align='center'>pass</td>
 </tr>
 
-<tr class='passClass'>
-    <td>start_soso.Soso</td>
-    <td>1</td>
+<tr class='failClass'>
+    <td>start_management.UntitledTestCase2</td>
     <td>1</td>
     <td>0</td>
+    <td>1</td>
     <td>0</td>
-    <td><a href="javascript:showClassDetail('c3',1)">Detail</a></td>
+    <td><a href="javascript:showClassDetail('c2',1)">Detail</a></td>
 </tr>
 
-<tr id='pt3.1' class='hiddenRow'>
-    <td class='none'><div class='testcase'>test_youda_search: soso搜索</div></td>
-    <td colspan='5' align='center'>pass</td>
+<tr id='ft2.1' class='none'>
+    <td class='failCase'><div class='testcase'>test_untitled_test_case2</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_ft2.1')" >
+        fail</a>
+
+    <div id='div_ft2.1' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_ft2.1').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+ft2.1: Traceback (most recent call last):
+  File "D:\selenium_python\test_case\start_management.py", line 36, in test_untitled_test_case2
+    self.assertIsNone(driver.find_element_by_xpath("//div[@id='tt']/div/div[3]/ul/li[2]/a/span"))
+AssertionError: &lt;selenium.webdriver.remote.webelement.WebElement (session="548b219710a4066505f47c1fd9d188ed", element="0.20898864472333312-3")&gt; is not None
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
 </tr>
 
 <tr id='total_row'>
     <td>Total</td>
-    <td>4</td>
-    <td>4</td>
-    <td>0</td>
+    <td>2</td>
+    <td>1</td>
+    <td>1</td>
     <td>0</td>
     <td>&nbsp;</td>
 </tr>

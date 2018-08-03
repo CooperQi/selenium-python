@@ -2,7 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5c51db0-6ce7-43a3-b100-09ab56a2fc6c" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/all_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/all_tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/userinfo.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/18-07-18-17_45_03result.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/18-07-19-16_23_58result.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/18-07-20-15_21_01result.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/18-07-20-15_23_33result.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/18-07-20-15_25_31result.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/18-07-20-15_32_22result.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/18-07-20-15_35_40result.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/18-07-20-15_38_00result.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/18-07-20-17_47_19result.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/test_case/public.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_case/public.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/start_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_case/start_login.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,23 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="start_login.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_case/start_login.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-              <folding>
-                <element signature="e#14#44#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="all_tests.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/all_tests.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+            <state relative-caret-position="190">
+              <caret line="10" column="66" lean-forward="true" selection-start-line="10" selection-start-column="66" selection-end-line="10" selection-end-column="66" />
               <folding>
                 <element signature="e#14#29#0" expanded="true" />
               </folding>
@@ -40,8 +41,32 @@
       <file leaf-file-name="public.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test_case/public.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="18" column="66" selection-start-line="18" selection-start-column="66" selection-end-line="18" selection-end-column="66" />
+            <state relative-caret-position="-57">
+              <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="start_login.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_case/start_login.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+              <folding>
+                <element signature="e#14#44#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="start_ManageOutgoing.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_case/start_ManageOutgoing.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="35" lean-forward="true" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+              <folding>
+                <element signature="e#24#54#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -70,19 +95,25 @@
         <option value="$PROJECT_DIR$/test_case/public/login.py" />
         <option value="$PROJECT_DIR$/test_case/public/public.py" />
         <option value="$PROJECT_DIR$/test_case/login.py" />
-        <option value="$PROJECT_DIR$/all_tests.py" />
         <option value="$PROJECT_DIR$/test_case/__init__.py" />
         <option value="$PROJECT_DIR$/data/__inint__.py" />
-        <option value="$PROJECT_DIR$/test_case/start_login.py" />
         <option value="$PROJECT_DIR$/data/loop_reader.py" />
+        <option value="$PROJECT_DIR$/data/userinfo.csv" />
+        <option value="$PROJECT_DIR$/all_tests.py" />
+        <option value="$PROJECT_DIR$/test_case/UntitledTestCase.py" />
+        <option value="$PROJECT_DIR$/test_case/UntitledTestCase2.py" />
+        <option value="$PROJECT_DIR$/test_case/start_management.py" />
+        <option value="$PROJECT_DIR$/test_case/ManageOutgoing.py" />
+        <option value="$PROJECT_DIR$/test_case/start_login.py" />
+        <option value="$PROJECT_DIR$/test_case/start_ManageOutgoing.py" />
         <option value="$PROJECT_DIR$/test_case/public.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="835" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="795" />
     <option name="width" value="1085" />
-    <option name="height" value="1040" />
+    <option name="height" value="1042" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -100,11 +131,6 @@
             <path>
               <item name="selenium_python" type="b2602c69:ProjectViewProjectNode" />
               <item name="selenium_python" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="selenium_python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="selenium_python" type="462c0819:PsiDirectoryNode" />
               <item name="test_case" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -116,7 +142,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -130,8 +156,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests for start_login.Login.test_login">
-    <configuration name="loop_reader" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python tests.Unittests for start_ManageOutgoing.ManageOutgoing.test_manage_outgoing">
+    <configuration name="all_tests" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="selenium_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -139,29 +165,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data/loop_reader.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="public" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="selenium_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_case" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_case/public.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/all_tests.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -185,7 +193,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Unittests for start_login.Login" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for start_ManageOutgoing.ManageOutgoing" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="selenium_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -195,7 +203,20 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;start_login.Login&quot;" />
+      <option name="_new_target" value="&quot;start_ManageOutgoing.ManageOutgoing&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests for start_ManageOutgoing.ManageOutgoing.test_manage_outgoing" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="selenium_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;start_ManageOutgoing.ManageOutgoing.test_manage_outgoing&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
     <configuration name="Unittests for start_login.Login.test_login" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
@@ -239,19 +260,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.youdao" />
-      <item itemvalue="Python tests.Unittests for start_login.Login" />
-      <item itemvalue="Python tests.Unittests in start_login.py" />
       <item itemvalue="Python tests.Unittests for start_login.Login.test_login" />
-      <item itemvalue="Python.loop_reader" />
-      <item itemvalue="Python.public" />
+      <item itemvalue="Python tests.Unittests for start_ManageOutgoing.ManageOutgoing.test_manage_outgoing" />
+      <item itemvalue="Python tests.Unittests for start_ManageOutgoing.ManageOutgoing" />
+      <item itemvalue="Python tests.Unittests in start_login.py" />
+      <item itemvalue="Python.all_tests" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Unittests for start_login.Login.test_login" />
-        <item itemvalue="Python tests.Unittests for start_login.Login" />
+        <item itemvalue="Python tests.Unittests for start_ManageOutgoing.ManageOutgoing.test_manage_outgoing" />
+        <item itemvalue="Python.all_tests" />
         <item itemvalue="Python tests.Unittests in start_login.py" />
-        <item itemvalue="Python.public" />
-        <item itemvalue="Python.loop_reader" />
+        <item itemvalue="Python tests.Unittests for start_login.Login.test_login" />
+        <item itemvalue="Python tests.Unittests for start_ManageOutgoing.ManageOutgoing" />
       </list>
     </recent_temporary>
   </component>
@@ -269,58 +290,57 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_start_login_Login_test_login - 2018.07.20 at 18h 47m 04s.xml">
+    <history-entry file="Unittests_for_ManageOutgoing_ManageOutgoing_test_manage_outgoing - 2018.08.02 at 17h 49m 59s.xml">
+      <configuration name="Unittests for ManageOutgoing.ManageOutgoing.test_manage_outgoing" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_start_login_Login - 2018.08.03 at 10h 59m 25s.xml">
+      <configuration name="Unittests for start_login.Login" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_start_login_Login_test_login - 2018.08.03 at 11h 00m 25s.xml">
       <configuration name="Unittests for start_login.Login.test_login" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_start_login_Login_test_login - 2018.07.20 at 18h 48m 35s.xml">
+    <history-entry file="Unittests_for_start_ManageOutgoing_ManageOutgoing_test_manage_outgoing - 2018.08.03 at 11h 02m 07s.xml">
+      <configuration name="Unittests for start_ManageOutgoing.ManageOutgoing.test_manage_outgoing" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_start_ManageOutgoing_ManageOutgoing - 2018.08.03 at 11h 02m 50s.xml">
+      <configuration name="Unittests for start_ManageOutgoing.ManageOutgoing" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_start_ManageOutgoing_ManageOutgoing - 2018.08.03 at 11h 05m 22s.xml">
+      <configuration name="Unittests for start_ManageOutgoing.ManageOutgoing" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_start_login_Login_test_login - 2018.08.03 at 11h 07m 02s.xml">
       <configuration name="Unittests for start_login.Login.test_login" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_start_login_Login_test_login - 2018.07.20 at 18h 49m 57s.xml">
-      <configuration name="Unittests for start_login.Login.test_login" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_start_login_Login_test_login - 2018.07.20 at 18h 50m 55s.xml">
-      <configuration name="Unittests for start_login.Login.test_login" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_start_login_Login_test_login - 2018.07.20 at 18h 54m 34s.xml">
-      <configuration name="Unittests for start_login.Login.test_login" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_start_login_py - 2018.07.20 at 18h 54m 49s.xml">
+    <history-entry file="Unittests_in_start_login_py - 2018.08.03 at 11h 07m 59s.xml">
       <configuration name="Unittests in start_login.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_start_login_Login - 2018.07.20 at 18h 55m 46s.xml">
-      <configuration name="Unittests for start_login.Login" configurationId="tests" />
+    <history-entry file="Unittests_for_start_ManageOutgoing_ManageOutgoing_test_manage_outgoing - 2018.08.03 at 11h 12m 24s.xml">
+      <configuration name="Unittests for start_ManageOutgoing.ManageOutgoing.test_manage_outgoing" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_start_login_Login - 2018.07.20 at 18h 57m 44s.xml">
-      <configuration name="Unittests for start_login.Login" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_start_login_Login_test_login - 2018.07.20 at 19h 47m 34s.xml">
-      <configuration name="Unittests for start_login.Login.test_login" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_start_login_Login_test_login - 2018.07.23 at 08h 42m 52s.xml">
-      <configuration name="Unittests for start_login.Login.test_login" configurationId="tests" />
+    <history-entry file="Unittests_for_start_ManageOutgoing_ManageOutgoing_test_manage_outgoing - 2018.08.03 at 11h 12m 53s.xml">
+      <configuration name="Unittests for start_ManageOutgoing.ManageOutgoing.test_manage_outgoing" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="668" y="0" width="868" height="832" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20491803" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14973958" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32872927" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.29428172" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29143646" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3286908" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39779004" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -328,22 +348,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test_case/start_login.py</url>
-          <line>1</line>
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test_case/public.py</url>
-          <line>22</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test_case/public.py</url>
-          <line>33</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="4" />
     </breakpoint-manager>
   </component>
@@ -464,9 +468,6 @@
     <entry file="file://$PROJECT_DIR$/test_case/start_soso.py" />
     <entry file="file://$PROJECT_DIR$/test_case/start_baidu.py" />
     <entry file="file://$PROJECT_DIR$/data/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/test_case/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://C:/Python27/Lib/unittest/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
@@ -524,20 +525,70 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/data/userinfo.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_case/start_management.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+          <folding>
+            <element signature="e#24#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_case/UntitledTestCase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="60" column="65" lean-forward="true" selection-start-line="60" selection-start-column="65" selection-end-line="60" selection-end-column="65" />
+          <folding>
+            <element signature="e#24#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/_jb_runner_tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="186" selection-start-line="186" selection-end-line="186" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/18-08-02-13_30_41result.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_case/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/all_tests.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        <state relative-caret-position="190">
+          <caret line="10" column="66" lean-forward="true" selection-start-line="10" selection-start-column="66" selection-end-line="10" selection-end-column="66" />
           <folding>
             <element signature="e#14#29#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test_case/start_ManageOutgoing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="35" lean-forward="true" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+          <folding>
+            <element signature="e#24#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test_case/start_login.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        <state relative-caret-position="76">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
           <folding>
             <element signature="e#14#44#0" expanded="true" />
           </folding>
@@ -546,8 +597,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test_case/public.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="18" column="66" selection-start-line="18" selection-start-column="66" selection-end-line="18" selection-end-column="66" />
+        <state relative-caret-position="-57">
+          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
         </state>
       </provider>
     </entry>

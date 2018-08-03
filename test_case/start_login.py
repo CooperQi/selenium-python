@@ -9,12 +9,11 @@ class Login(unittest.TestCase):
         public.setUp(self)
 
     def test_login(self):
-        #u"""登录"""
+        #u'''登录'''
         driver = self.driver
-        driver.get(self.base_url)
         public.login(self)
+        self.assertEqual(driver.current_url, 'http://192.168.100.125:58088/vender/mainIndex.jsp')
 
-    # def tearDown(self):
         public.teardown(self)
 
 
