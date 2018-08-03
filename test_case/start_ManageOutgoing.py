@@ -16,7 +16,6 @@ class ManageOutgoing(unittest.TestCase):
         #u'''出入库上报'''
         driver = self.driver
         public.login(self)
-        time.sleep(3)
         driver.find_element_by_link_text(u"出入库上报").click()
         self.assertIsNotNone(driver.find_element_by_xpath("//div[@id='tt']/div/div[3]/ul/li[2]/a/span"))
     

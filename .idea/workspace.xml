@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5c51db0-6ce7-43a3-b100-09ab56a2fc6c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/all_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/all_tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/userinfo.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/18-07-18-17_45_03result.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/18-07-19-16_23_58result.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/18-07-20-15_21_01result.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/18-07-20-15_23_33result.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/18-07-20-15_25_31result.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/18-07-20-15_32_22result.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/18-07-20-15_35_40result.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/18-07-20-15_38_00result.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/18-07-20-17_47_19result.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_case/public.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_case/public.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_case/start_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_case/start_login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/start_ManageOutgoing.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_case/start_ManageOutgoing.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,11 +13,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="public.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_case/public.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="all_tests.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/all_tests.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="66" lean-forward="true" selection-start-line="10" selection-start-column="66" selection-end-line="10" selection-end-column="66" />
+            <state relative-caret-position="133">
+              <caret line="7" column="35" lean-forward="true" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
               <folding>
                 <element signature="e#14#29#0" expanded="true" />
               </folding>
@@ -38,11 +34,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="public.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test_case/public.py">
+      <file leaf-file-name="Storage.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test_case/Storage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-57">
-              <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+            <state relative-caret-position="380">
+              <caret line="50" column="38" lean-forward="true" selection-start-line="50" selection-start-column="38" selection-end-line="50" selection-end-column="38" />
+              <folding>
+                <element signature="e#24#54#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="case.py" pinned="false" current-in-tab="false">
+        <entry file="file://C:/Python27/Lib/unittest/case.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="296">
+              <caret line="328" selection-start-line="328" selection-end-line="328" />
             </state>
           </provider>
         </entry>
@@ -62,8 +70,8 @@
       <file leaf-file-name="start_ManageOutgoing.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_case/start_ManageOutgoing.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="35" lean-forward="true" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+            <state relative-caret-position="342">
+              <caret line="18" column="48" lean-forward="true" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
               <folding>
                 <element signature="e#24#54#0" expanded="true" />
               </folding>
@@ -105,13 +113,15 @@
         <option value="$PROJECT_DIR$/test_case/start_management.py" />
         <option value="$PROJECT_DIR$/test_case/ManageOutgoing.py" />
         <option value="$PROJECT_DIR$/test_case/start_login.py" />
-        <option value="$PROJECT_DIR$/test_case/start_ManageOutgoing.py" />
         <option value="$PROJECT_DIR$/test_case/public.py" />
+        <option value="$PROJECT_DIR$/test_case/start_ManageOutgoing.py" />
+        <option value="$PROJECT_DIR$/test_case/Storage.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="795" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="475" />
+    <option name="y" value="76" />
     <option name="width" value="1085" />
     <option name="height" value="1042" />
   </component>
@@ -156,7 +166,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests for start_ManageOutgoing.ManageOutgoing.test_manage_outgoing">
+  <component name="RunManager" selected="Python tests.Unittests for Storage.Storage.test_storage">
     <configuration name="all_tests" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="selenium_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -193,7 +203,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Unittests for start_ManageOutgoing.ManageOutgoing" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for Storage.Storage" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="selenium_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -203,7 +213,20 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;start_ManageOutgoing.ManageOutgoing&quot;" />
+      <option name="_new_target" value="&quot;Storage.Storage&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests for Storage.Storage.test_storage" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="selenium_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Storage.Storage.test_storage&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
     <configuration name="Unittests for start_ManageOutgoing.ManageOutgoing.test_manage_outgoing" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
@@ -217,19 +240,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;start_ManageOutgoing.ManageOutgoing.test_manage_outgoing&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-    </configuration>
-    <configuration name="Unittests for start_login.Login.test_login" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="selenium_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_case" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;start_login.Login.test_login&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
     <configuration name="Unittests for test_case.public.public" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
@@ -260,19 +270,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.youdao" />
-      <item itemvalue="Python tests.Unittests for start_login.Login.test_login" />
       <item itemvalue="Python tests.Unittests for start_ManageOutgoing.ManageOutgoing.test_manage_outgoing" />
-      <item itemvalue="Python tests.Unittests for start_ManageOutgoing.ManageOutgoing" />
       <item itemvalue="Python tests.Unittests in start_login.py" />
       <item itemvalue="Python.all_tests" />
+      <item itemvalue="Python tests.Unittests for Storage.Storage" />
+      <item itemvalue="Python tests.Unittests for Storage.Storage.test_storage" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests for Storage.Storage.test_storage" />
+        <item itemvalue="Python tests.Unittests for Storage.Storage" />
         <item itemvalue="Python tests.Unittests for start_ManageOutgoing.ManageOutgoing.test_manage_outgoing" />
         <item itemvalue="Python.all_tests" />
         <item itemvalue="Python tests.Unittests in start_login.py" />
-        <item itemvalue="Python tests.Unittests for start_login.Login.test_login" />
-        <item itemvalue="Python tests.Unittests for start_ManageOutgoing.ManageOutgoing" />
       </list>
     </recent_temporary>
   </component>
@@ -290,47 +300,48 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_ManageOutgoing_ManageOutgoing_test_manage_outgoing - 2018.08.02 at 17h 49m 59s.xml">
-      <configuration name="Unittests for ManageOutgoing.ManageOutgoing.test_manage_outgoing" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_start_login_Login - 2018.08.03 at 10h 59m 25s.xml">
-      <configuration name="Unittests for start_login.Login" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_start_login_Login_test_login - 2018.08.03 at 11h 00m 25s.xml">
-      <configuration name="Unittests for start_login.Login.test_login" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_start_ManageOutgoing_ManageOutgoing_test_manage_outgoing - 2018.08.03 at 11h 02m 07s.xml">
+    <history-entry file="Unittests_for_start_ManageOutgoing_ManageOutgoing_test_manage_outgoing - 2018.08.03 at 16h 48m 51s.xml">
       <configuration name="Unittests for start_ManageOutgoing.ManageOutgoing.test_manage_outgoing" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_start_ManageOutgoing_ManageOutgoing - 2018.08.03 at 11h 02m 50s.xml">
-      <configuration name="Unittests for start_ManageOutgoing.ManageOutgoing" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_start_ManageOutgoing_ManageOutgoing - 2018.08.03 at 11h 05m 22s.xml">
-      <configuration name="Unittests for start_ManageOutgoing.ManageOutgoing" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_start_login_Login_test_login - 2018.08.03 at 11h 07m 02s.xml">
-      <configuration name="Unittests for start_login.Login.test_login" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_start_login_py - 2018.08.03 at 11h 07m 59s.xml">
-      <configuration name="Unittests in start_login.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_start_ManageOutgoing_ManageOutgoing_test_manage_outgoing - 2018.08.03 at 11h 12m 24s.xml">
+    <history-entry file="Unittests_for_start_ManageOutgoing_ManageOutgoing_test_manage_outgoing - 2018.08.03 at 16h 49m 50s.xml">
       <configuration name="Unittests for start_ManageOutgoing.ManageOutgoing.test_manage_outgoing" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_start_ManageOutgoing_ManageOutgoing_test_manage_outgoing - 2018.08.03 at 11h 12m 53s.xml">
-      <configuration name="Unittests for start_ManageOutgoing.ManageOutgoing.test_manage_outgoing" configurationId="tests" />
+    <history-entry file="Unittests_for_Storage_Storage_test_storage - 2018.08.03 at 16h 53m 01s.xml">
+      <configuration name="Unittests for Storage.Storage.test_storage" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Storage_Storage_test_storage - 2018.08.03 at 17h 12m 41s.xml">
+      <configuration name="Unittests for Storage.Storage.test_storage" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Storage_Storage - 2018.08.03 at 17h 27m 27s.xml">
+      <configuration name="Unittests for Storage.Storage" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Storage_Storage_test_storage - 2018.08.03 at 17h 30m 18s.xml">
+      <configuration name="Unittests for Storage.Storage.test_storage" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Storage_Storage_test_storage - 2018.08.03 at 17h 38m 17s.xml">
+      <configuration name="Unittests for Storage.Storage.test_storage" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Storage_Storage_test_storage - 2018.08.03 at 17h 42m 42s.xml">
+      <configuration name="Unittests for Storage.Storage.test_storage" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Storage_Storage_test_storage - 2018.08.03 at 17h 44m 00s.xml">
+      <configuration name="Unittests for Storage.Storage.test_storage" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Storage_Storage_test_storage - 2018.08.03 at 17h 46m 18s.xml">
+      <configuration name="Unittests for Storage.Storage.test_storage" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14973958" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14973958" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32872927" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29143646" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29143646" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3286908" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -348,7 +359,19 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="4" />
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test_case/Storage.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test_case/Storage.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="7" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -503,13 +526,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Python27/Lib/unittest/case.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="328" selection-start-line="328" selection-end-line="328" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/Python27/Lib/ntpath.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -567,18 +583,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/all_tests.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="66" lean-forward="true" selection-start-line="10" selection-start-column="66" selection-end-line="10" selection-end-column="66" />
+        <state relative-caret-position="133">
+          <caret line="7" column="35" lean-forward="true" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
           <folding>
             <element signature="e#14#29#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test_case/public.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test_case/start_ManageOutgoing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="35" lean-forward="true" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+        <state relative-caret-position="342">
+          <caret line="18" column="48" lean-forward="true" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
           <folding>
             <element signature="e#24#54#0" expanded="true" />
           </folding>
@@ -595,10 +618,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_case/public.py">
+    <entry file="file://C:/Python27/Lib/unittest/case.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-57">
-          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        <state relative-caret-position="296">
+          <caret line="328" selection-start-line="328" selection-end-line="328" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_case/Storage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="50" column="38" lean-forward="true" selection-start-line="50" selection-start-column="38" selection-end-line="50" selection-end-column="38" />
+          <folding>
+            <element signature="e#24#54#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
