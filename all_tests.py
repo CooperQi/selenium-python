@@ -26,7 +26,7 @@ fp = file(filename,'wb')
 
 runner = HTMLTestRunner.HTMLTestRunner(
     stream=fp,
-    title=u'祥云系统测试报告',
+    title=u'翔云系统测试报告',
     description=u'用例测试情况：'
 )
 
